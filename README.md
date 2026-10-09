@@ -209,3 +209,6 @@ mindshield_ai/
 1. **Simulation Fidelity:** Telemetry is algorithmically computed using calibrated Brownian micro-fluctuations for demonstration. It does not interface with actual physical CANopen, Modbus, or HART subterranean fieldbuses.
 2. **Rule Matrix:** The safety advisor uses deterministic rules patterned on standard underground mining safety regulations (MSHA 30 CFR / OSHA 1926.800). It must not be deployed as an autonomous life-safety interlock system in real operating mines without formal regulatory certification.
 3. **No External AI Model:** This application deliberately does not query OpenAI, Anthropic, Gemini, or any external machine-learning endpoint, ensuring air-gapped predictability, zero latency, and zero operational cost.
+
+## Demo Video 
+Link: https://youtu.be/uuQNYQ9dt9I?si=V7D6fLjdlU06ye8A
